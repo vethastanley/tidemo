@@ -1,0 +1,19 @@
+{
+  "login" : {
+    "title" : "Anmelden",
+    "form" : {
+      "password" : "Kennwort",
+      "password.placeholder" : "Ihr Passwort",
+      "rememberme" : "Erinnern Sie sich an mich",
+      "button" : "Anmelden"
+    },
+    "messages" : {
+      "error" : {
+        "authentication" : "<strong> hat es versäumt, sich anzumelden! </strong> Bitte überprüfen Sie Ihre Referenzen und versuchen Sie es erneut."
+      }
+    },
+    "password" : {
+      "forgot" : "Haben Sie Ihr Passwort vergessen?"
+    }
+  }
+}
