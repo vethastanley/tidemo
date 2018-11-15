@@ -1,0 +1,30 @@
+{
+  "userManagement" : {
+    "home" : {
+      "title" : "Benutzer",
+      "createLabel" : "Einen neuen Nutzer erstellen",
+      "createOrEditLabel" : "Einen Benutzer erstellen oder bearbeiten"
+    },
+    "created" : "Ein neuer Benutzer wird mit der Kennung {{param} erstellt",
+    "updated" : "Ein Benutzer wird mit der Kennung {{param} aktualisiert",
+    "deleted" : "Ein Benutzer wird mit der Kennung {{param}) gelöscht.",
+    "delete" : {
+      "question" : "Sind Sie sicher, dass Sie den Benutzer löschen wollen {{login}}?"
+    },
+    "detail" : {
+      "title" : "Benutzer"
+    },
+    "login" : "Login",
+    "firstName" : "Vorname",
+    "lastName" : "Nachname",
+    "email" : "E-Mail",
+    "activated" : "Aktiviert",
+    "deactivated" : "Deaktiviert",
+    "profiles" : "Profile",
+    "langKey" : "Sprache",
+    "createdBy" : "Erstellt von",
+    "createdDate" : "Termin festgelegt",
+    "lastModifiedBy" : "Geändert durch",
+    "lastModifiedDate" : "Verändertes Datum"
+  }
+}

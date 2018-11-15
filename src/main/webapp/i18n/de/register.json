@@ -1,0 +1,24 @@
+{
+  "register" : {
+    "title" : "Registrierung",
+    "form" : {
+      "button" : "Registrieren"
+    },
+    "messages" : {
+      "validate" : {
+        "login" : {
+          "required" : "Ihr Benutzername ist erforderlich.",
+          "minlength" : "Ihr Benutzername muss mindestens 1 Zeichen sein.",
+          "maxlength" : "Ihr Benutzername darf nicht länger als 50 Zeichen sein.",
+          "pattern" : "Ihr Benutzername kann nur Buchstaben und Ziffern enthalten."
+        }
+      },
+      "success" : "<strong> Registrierung gespeichert! </strong> Bitte überprüfen Sie Ihre E-Mail um eine Bestätigung.",
+      "error" : {
+        "fail" : "<strong> Anmeldung ist gescheitert! </strong> Bitte versuchen Sie es später noch einmal.",
+        "userexists" : "<strong> Login-Namen bereits registriert! </strong> Bitte wählen Sie einen anderen aus.",
+        "emailexists" : "<strong> E-Mail ist bereits im Einsatz! </strong> Bitte wählen Sie einen anderen aus."
+      }
+    }
+  }
+}

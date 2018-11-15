@@ -1,0 +1,28 @@
+{
+  "health" : {
+    "title" : "Gesundheitschecks",
+    "refresh.button" : "Aktualisieren",
+    "stacktrace" : "Stacktrace",
+    "details" : {
+      "details" : "Details",
+      "properties" : "Eigenschaften",
+      "name" : "Namen",
+      "value" : "Wert",
+      "error" : "Fehler"
+    },
+    "indicator" : {
+      "diskSpace" : "Speicherplatz",
+      "mail" : "E-Mail",
+      "db" : "Datenbank"
+    },
+    "table" : {
+      "service" : "Name des Dienstes",
+      "status" : "Status"
+    },
+    "status" : {
+      "UNKNOWN" : "Unbekannt",
+      "UP" : "UP",
+      "DOWN" : "DOWN"
+    }
+  }
+}
