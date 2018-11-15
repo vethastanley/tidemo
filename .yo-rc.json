@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.softwareag.linguist",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.4.2",
+    "applicationType": "monolith",
+    "baseName": "demo1",
+    "packageName": "com.softwareag.linguist",
+    "packageFolder": "com/softwareag/linguist",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2M5ZWNjM2U2M2UzZDVhZmVlNTk2YTI3MmNhMzk5OWNjYjk0NzYyOWJiZGIwMTQ0Y2RjMDRhNDVkMzgzYTAwYTQyN2NhNmQ0NGY1MDE3ZDA1OTY5NDNkZWMzZmY3OTVmZDZkNjFiYjdmMzYyZDA1ZmMzNWFiNTFjMDJlMjg0MTA=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ar-ly",
+      "fr",
+      "de",
+      "el",
+      "ja",
+      "es"
+    ]
+  }
+}
